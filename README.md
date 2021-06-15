@@ -12,6 +12,8 @@ The data set used is from [OpenMoji](https://openmoji.org/) where the output cla
 
 Works with TensorFlow 2.4, for some reason using TensorFlow 2.5 didn't seem to work while training.
 
+Resources: This is from a [Coursera Guided Project](https://www.coursera.org/learn/object-localization-tensorflow/home/welcome) for my future reference
+
 
 
 
